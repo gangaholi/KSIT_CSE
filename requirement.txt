@@ -1,0 +1,5 @@
+Open CV installation
+Once you install Anaconda Navigator, install the following packages
+1. pip install numpy
+2. pip install matplotlib
+3. pip install opencv-python
